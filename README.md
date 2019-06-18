@@ -4,8 +4,6 @@
 ## A Global Report
 Country-level data from 2016 Index and Dashboards
 
-[Project image]
-
 ## Project History
 Agenda 2030 and the Sustainable Development Goals, adopted by all member states of the United-Nations in 2015, describe a universal agenda that applies to and must be implemented by all countries. Sound metrics and data are critical for turning the SDGs into practical tools for problem solving.
 
@@ -20,6 +18,7 @@ The 2016 edition of the SDG Index and Dashboards Report introduced the unofficia
 The report shows how leaders can deliver on their promise and it urges countries not to lose the momentum for important reforms. In order to achieve the ambitious goals, immediate and comprehensive action is needed in the crucial first years of implementation of the new global agenda. The purpose of this report is to assist countries in getting started with implementing the new SDGs. The SDGs are a universal agenda of sustainable development, calling on all nations to pursue a holistic strategy that combines economic development, social inclusion, and environmental sustainability.
 
 For more information on this report, see https://www.sdgindex.org/reports/2016/.
+
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
@@ -38,8 +37,6 @@ By downloading the data, you hereby agree to all of the terms specified in this 
 
 ## Colophon
 Lead writers of the 2016 SDG Index and Dashboards Report are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, David Durand-Delacre, and Katerina Teksoz. The report should be cited as Sachs, J., Schmidt-Traub, G., Kroll, C., Durand-Delacre, D. and Teksoz, K. (2016): An SDG Index and Dashboards – Global Report. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
-
-Publication design and layout by [Pica Publishing](http://www.pica-publishing.com/).
 
 ## Endmatter
 
